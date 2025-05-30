@@ -24,7 +24,7 @@ I'm a passionate **Full-Stack Developer** with over 2 years of professional expe
 ---
 
 #### 📫 Let's Connect
-- 💼 [LinkedIn](https://www.linkedin.com/in/wondem-abebaw/)
+- 💼 [LinkedIn](https://www.linkedin.com/in/wondem-abebaw-185612209/)
 - 📧 Email: wondem5060@gmail.com
 
 ---
