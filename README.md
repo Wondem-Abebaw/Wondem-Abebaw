@@ -6,7 +6,7 @@ I'm a passionate **Full-Stack Developer** with over 2 years of professional expe
 
 #### 💻 Tech Stack
 - **Frontend:** React, Next.js, Redux Toolkit, Tailwind CSS, Ant Design
-- **Backend:** Node.js, NestJS, Express.js, MySQL, MongoDB
+- **Backend:** Node.js, NestJS, Express.js, MySQL, MongoDB,Postgresql
 - **Tools & Others:** Git, Docker, Postman, CI/CD, Jest, GraphQL
 
 ---
@@ -19,6 +19,7 @@ I'm a passionate **Full-Stack Developer** with over 2 years of professional expe
 - ❤️ **Maraki** – Ethiopian dating app dashboard
 - 🚕 **Cheetah** – Ride-hailing app dashboard with real-time driver tracking
 - 🏥 **EMR System** – Medical record system modernized during internship
+- 🎓 **Tuteapp** – Tutoring application dashboard with a focus on performance and user experience
 
 ---
 
