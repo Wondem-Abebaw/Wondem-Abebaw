@@ -13,6 +13,8 @@ I'm a passionate **Full-Stack Developer** with over 2 years of professional expe
 
 #### 🔨 Projects I'm Proud Of
 - 🚗 **LINQ Transport Dashboard** – Admin panel for a USA-based transport platform
+- 🧑‍💼 **Emebet** – Employment matching platform connecting employers and employees
+- 🚌 **Kabba Transport** – Optimized and enhanced features in a transportation system’s admin panel
 - 📚 **ArifGet** – Online course & job matching platform in Ethiopia
 - ❤️ **Maraki** – Ethiopian dating app dashboard
 - 🚕 **Cheetah** – Ride-hailing app dashboard with real-time driver tracking
