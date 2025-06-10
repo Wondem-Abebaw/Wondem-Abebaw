@@ -1,6 +1,6 @@
 ### 👋 Hi there, I'm Wondem Abebaw
 
-I'm a passionate **Full-Stack Developer** with over 2 years of professional experience in designing, building, and optimizing scalable web applications. I specialize in **React**, **Next.js**, **NestJS**, and **Tailwind CSS**, with a strong focus on clean architecture and performance.
+I'm a passionate **Web App and Backend Developer** with over 2 years of professional experience in designing, building, and optimizing scalable web applications. I specialize in **React**, **Next.js**, **NestJS**, and **Tailwind CSS**, with a strong focus on clean architecture and performance.
 
 ---
 
